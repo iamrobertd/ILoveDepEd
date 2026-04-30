@@ -4,8 +4,8 @@ Para sa Bata
 <html>
 <head>
     <title>CHICKS SCHEDULE TRACKER</title>
-    </head>
-    <body>
+</head>
+<body>
     <h1>My Chicks</h1>
     <ul>
         <li>Day</li>
