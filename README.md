@@ -6,7 +6,7 @@ Para sa Bata
     <title>CHICKS SCHEDULE TRACKER</title>
     </head>
     <body>
-    <h1>My Chicks</title>
+    <h1>My Chicks</h1>
     <ul>
         <li>Day</li>
         <li>Week</li>
